@@ -1,6 +1,6 @@
 {
-  "short_name": "EchoSckechAI",
-  "name": "EchoSketchAI：声で作るAIスケッチ",
+  "short_name": "VoiceSketchAI",
+  "name": "VoiceSketchAI：声で作るAIスケッチ",
   "icons": [
     {
       "src": "icon-192.png",

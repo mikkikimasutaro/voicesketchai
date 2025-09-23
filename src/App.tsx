@@ -151,7 +151,7 @@ export default function App() {
   return (
     <div className="w-full min-h-screen bg-sky-100 flex flex-col items-center justify-center p-4 font-sans">
       <div className="w-full max-w-md mx-auto bg-white rounded-2xl shadow-xl p-8 text-center">
-        <h1 className="text-3xl font-bold text-gray-800 mb-2">Voice Skech AI</h1>
+        <h1 className="text-3xl font-bold text-gray-800 mb-2">Voice Sketch AI</h1>
         <p className="text-gray-500 mb-8">声を元にAIが絵を描いてくれます。</p>
 
         {error && <p className="text-red-500 bg-red-100 p-3 rounded-lg mb-4 animate-pulse">{error}</p>}
@@ -231,7 +231,7 @@ export default function App() {
  
       </div>
       <footer className="text-center mt-6 text-gray-500 text-sm">
-        <p>&copy; 2025 EchoSckechAI</p>
+        <p>&copy; 2025 VoiceSketchAI</p>
       </footer>
     </div>
   );
